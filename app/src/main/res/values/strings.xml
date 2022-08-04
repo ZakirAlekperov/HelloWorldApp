@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">HelloWorldApp</string>
+    <string name="app_name">Здравствуй Мир!</string>
+    <string name="helloTextView">Здравствуй, Мир!</string>
 </resources>
